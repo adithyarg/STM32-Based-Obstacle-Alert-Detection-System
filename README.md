@@ -23,15 +23,13 @@ The system monitors surroundings through an IR proximity sensor and immediately 
 
 ## 📸 Project Images
 
-> Add your two images here
-
 ### System Setup
 
 ![Image1](path-to-image-1)
 
 ### Hardware Implementation
 
-![Image2](path-to-image-2)
+![Image2]([path-to-image-2](https://github.com/adithyarg/STM32-Based-Obstacle-Alert-Detection-System/blob/f1516f27a066c82cc0be532a0e97b5f2d989a0d3/working_setup.jpeg))
 
 ---
 

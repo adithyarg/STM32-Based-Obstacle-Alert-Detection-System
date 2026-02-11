@@ -25,11 +25,11 @@ The system monitors surroundings through an IR proximity sensor and immediately 
 
 ### System Setup
 
-![Image1]([path-to-image-1](https://github.com/adithyarg/STM32-Based-Obstacle-Alert-Detection-System/blob/b6991d3b871a2d5cc2b933ee3ff25a07ece76aa7/Block_Diagram.png))
+![Block Diagram](https://github.com/adithyarg/STM32-Based-Obstacle-Alert-Detection-System/blob/b6991d3b871a2d5cc2b933ee3ff25a07ece76aa7/Block_Diagram.png?raw=true)
 
 ### Hardware Implementation
 
-![Image2]([path-to-image-2](https://github.com/adithyarg/STM32-Based-Obstacle-Alert-Detection-System/blob/f1516f27a066c82cc0be532a0e97b5f2d989a0d3/working_setup.jpeg))
+![Working Setup](https://github.com/adithyarg/STM32-Based-Obstacle-Alert-Detection-System/blob/f1516f27a066c82cc0be532a0e97b5f2d989a0d3/working_setup.jpeg?raw=true)
 
 ---
 
